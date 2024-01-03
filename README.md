@@ -1,2 +1,2 @@
 # CalculateGradeAvarage
-I wanted to see what my avatar grades would look look like before they were posted on cunyfirst
+I wanted to see what my average grades would look like before they were posted so instead of writting on a piece of paper, i wrote this. 
